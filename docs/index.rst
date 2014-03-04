@@ -21,12 +21,3 @@ Past meetups:
     round5
 
 Thanks to `Read the Docs <https://readthedocs.org/>`_ for hosting.
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
