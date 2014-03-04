@@ -1,8 +1,8 @@
 Round 5
 =======
 
-http://www.meetup.com/Hack-and-Tell-Boulder/events/161111782/
-Hosted by Viget on 2/4.
+Thanks to `Viget <http://viget.com/>`_ for hosting `Round 5
+<http://www.meetup.com/Hack-and-Tell-Boulder/events/161111782/>`_.
 
 
 Greg Pfeil
@@ -22,17 +22,17 @@ browser using node.js, Wii-mote controllers and an arduino.
 Jeremy Thiesen
 --------------
 
-Jeremy built a `number convert <https://github.com/JeremyThiesen/NumConvert>`_
-to convert numbers between arabic numerals, roman numerals and English.
+Jeremy built a `number converter
+<https://github.com/JeremyThiesen/NumConvert>`_ to convert numbers between
+arabic numerals, roman numerals and English.
 
 
 Patrick and William Reagen
--------------------------
+--------------------------
 
 Patrick and his son William built an `arduino based game
 <https://github.com/reagent/led_game>`_ where you use potentiometers to match
-and RGB led's color to the control LED which is a
-randomly generated color.  
+an RGB led's color to the control LED which is a randomly generated color.  
 
 
 Jonathan Beluch
