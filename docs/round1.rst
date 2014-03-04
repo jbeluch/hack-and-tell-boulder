@@ -32,7 +32,7 @@ Ryan Cook
 ---------
 
 In the most mind warping presentation of the night, Ryan Cook is working on a
-submission for 'Ruby Trick 2013
+submission for `Ruby Trick 2013
 <https://sites.google.com/site/trickcontest2013/>`_. He's writing a ruby
 program, `sig <https://github.com/cookrn/sig>`_, that takes some ascii art and
 another program as input, and then will output the existing code restructured
