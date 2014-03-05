@@ -19,5 +19,6 @@ Past meetups:
     round3
     round4
     round5
+    round6
 
 Thanks to `Read the Docs <https://readthedocs.org/>`_ for hosting.
