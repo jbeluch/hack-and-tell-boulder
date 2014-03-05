@@ -27,10 +27,10 @@ Jeremy built a `number converter
 arabic numerals, roman numerals and English.
 
 
-Patrick and William Reagen
+Patrick and Liam Reagan
 --------------------------
 
-Patrick and his son William built an `arduino based game
+Patrick and his son Liam built an `arduino based game
 <https://github.com/reagent/led_game>`_ where you use potentiometers to match
 an RGB led's color to the control LED which is a randomly generated color.  
 
