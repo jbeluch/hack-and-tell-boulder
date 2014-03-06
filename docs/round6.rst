@@ -37,8 +37,9 @@ available data. `repo <https://github.com/jofusa/ssa-baby-names>`_
 Eli Fatsi
 ---------
 
-Showed off an arduino? powered device to send him a text message when his
-washer/dryer finished running.
+Showed off an `Spark Core <https://www.spark.io/>`_ powered device to send him a text
+message when his washer/dryer finished running. A `Rails app
+<https://github.com/efatsi/laundry_alert>`_ hosted on Heroku powers the whole thing.
 
 Tehan
 -----
