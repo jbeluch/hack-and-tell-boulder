@@ -41,9 +41,11 @@ Showed off an `Spark Core <https://www.spark.io/>`_ powered device to send him a
 message when his washer/dryer finished running. A `Rails app
 <https://github.com/efatsi/laundry_alert>`_ hosted on Heroku powers the whole thing.
 
-Tehan
+Tihan Seale
 -----
 
-Tehan showed off his customized version of yahtzee, called ninezee. He decided
+Tihan showed off his customized version of yahtzee, called Ninezee. He decided
 to build his own version with higher numbers so his son would learn
-mulitplication with numbers greater than 6.
+mulitplication with numbers greater than 6. 
+Source code at `github.com/mode80/ninezee <https://github.com/mode80/ninezee>`_ .
+Play it live at `ninezee.com <http://ninezee.com>`_ .
