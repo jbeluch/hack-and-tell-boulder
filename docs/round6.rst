@@ -46,6 +46,6 @@ Tihan Seale
 
 Tihan showed off his customized version of yahtzee, called Ninezee. He decided
 to build his own version with higher numbers so his son would learn
-mulitplication with numbers greater than 6. 
+multiplication with numbers greater than 6. 
 Source code at `github.com/mode80/ninezee <https://github.com/mode80/ninezee>`_ .
 Play it live at `ninezee.com <http://ninezee.com>`_ .
